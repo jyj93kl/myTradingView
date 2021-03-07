@@ -1,0 +1,23 @@
+{
+  "name": "coin",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "clientside-require": "^4.7.2",
+    "crypto": "^1.0.1",
+    "ejs": "^2.5.9",
+    "express": "3.2.6",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "properties": "^1.2.1",
+    "querystring": "^0.2.1",
+    "request": "^2.88.2",
+    "socket.io": "^2.4.1",
+    "uuid": "^8.3.2",
+    "uuidv4": "^6.2.6"
+  }
+}
