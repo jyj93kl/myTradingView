@@ -1,0 +1,14 @@
+.metadata/**
+**/bin/*
+**/target/*
+Servers/**
+**/.plugins/*
+/.metadata/
+
+**.zip
+**/.classpath
+**/.project
+**/**.prefs
+**/**.component
+
+/node_modules/**
